@@ -68,10 +68,10 @@ I'm a Software Developer at <b>Findoc Investmart Pvt. Ltd.</b> with <b>2.5+ year
 
 | Project | Description | Tech |
 |---|---|---|
-| **StockProof** | Fintech portfolio project for tracking and analysing stock investments | React.js, Python |
+| **[StockProof](https://github.com/shubhamsharma2004/StockProof)** | Fintech portfolio project for tracking and analysing stock investments | React.js, Python |
 | **Findoc Wealth** | Mutual fund investment platform | React.js, Django, PostgreSQL |
 | **Findoc Vault** | Wealth management and reporting platform | React.js, Django, PostgreSQL |
-| **RAG-Powered AI News Chatbot** | AI-powered news search and question answering | Python, LangChain, OpenAI, Vector DB |
+| **[RAG-Powered AI News Chatbot](https://github.com/shubhamsharma2004/RAG-CHTBOT)** | AI-powered news search and question answering | Python, LangChain, OpenAI, Vector DB |
 | **BuildVault** | React frontend project | React.js |
 
 👉 More details on my portfolio: **[devshubh.in](https://devshubh.in)**
