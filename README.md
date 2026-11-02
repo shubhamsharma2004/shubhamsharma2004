@@ -76,6 +76,14 @@ I'm a Software Developer at <b>Findoc Investmart Pvt. Ltd.</b> with <b>2.5+ year
 
 👉 More details on my portfolio: **[devshubh.in](https://devshubh.in)**
 
+<h2>🔥 Recently Updated Projects:</h2>
+
+<!-- LATEST_PROJECTS:START -->
+_Updating automatically..._
+<!-- LATEST_PROJECTS:END -->
+
+<sub>⚙️ This section updates automatically every day via GitHub Actions.</sub>
+
 <h2>💼 Experience:</h2>
 
 | Role | Company | What I Do |
@@ -91,6 +99,14 @@ I'm a Software Developer at <b>Findoc Investmart Pvt. Ltd.</b> with <b>2.5+ year
 - 🤖 **AI / LLM development**: RAG pipelines and chatbots with LangChain, OpenAI and vector databases
 - 🚀 **2.5+ years** of shipping production software in a fast-paced fintech environment
 - 🤝 Open to **collaborations, freelance work and exciting full-stack / AI roles**
+
+<h2>🐍 Contribution Snake:</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhamsharma2004/shubhamsharma2004/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhamsharma2004/shubhamsharma2004/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/shubhamsharma2004/shubhamsharma2004/output/github-snake.svg" />
+</picture>
 
 ---
 <p align="center">⭐ Thanks for visiting my profile!</p>
