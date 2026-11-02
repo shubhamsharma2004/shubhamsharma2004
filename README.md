@@ -76,14 +76,21 @@ I'm a Software Developer at <b>Findoc Investmart Pvt. Ltd.</b> with <b>2.5+ year
 
 👉 More details on my portfolio: **[devshubh.in](https://devshubh.in)**
 
-<h2>📊 GitHub Stats:</h2>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhamsharma2004&theme=radical" alt="Profile details" />
-</p>
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubhamsharma2004&theme=radical" alt="GitHub stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhamsharma2004&theme=radical" alt="Top languages" />
-</p>
+<h2>💼 Experience:</h2>
+
+| Role | Company | What I Do |
+|---|---|---|
+| **Software Developer** | Findoc Investmart Pvt. Ltd. *(Current)* | Build fintech web applications, backend APIs, reporting modules and financial data workflows |
+| **Web Developer** | Worn In Well | Designed, developed and maintained responsive web experiences |
+| **Software Developer Intern** | Solar Secure Pvt. Ltd. | Contributed to software development and learned production engineering practices |
+
+<h2>🧠 What I Bring:</h2>
+
+- 🏦 **Fintech domain expertise**: mutual fund investment, wealth management and financial reporting platforms
+- ⚙️ **End-to-end delivery**: from React.js frontends to Django / Node.js REST APIs and PostgreSQL databases
+- 🤖 **AI / LLM development**: RAG pipelines and chatbots with LangChain, OpenAI and vector databases
+- 🚀 **2.5+ years** of shipping production software in a fast-paced fintech environment
+- 🤝 Open to **collaborations, freelance work and exciting full-stack / AI roles**
 
 ---
 <p align="center">⭐ Thanks for visiting my profile!</p>
