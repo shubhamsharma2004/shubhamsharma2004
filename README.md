@@ -79,7 +79,13 @@ I'm a Software Developer at <b>Findoc Investmart Pvt. Ltd.</b> with <b>2.5+ year
 <h2>🔥 Recently Updated Projects:</h2>
 
 <!-- LATEST_PROJECTS:START -->
-_Updating automatically..._
+| Project | Description | Language | Last Updated |
+|---|---|---|---|
+| [StockProof](https://github.com/shubhamsharma2004/StockProof) · [Live](https://stock-proof.vercel.app) | Stock market insights platform providing technical indicators, financial analysis, market sentiment, news, portfolio analytics, and investment research using free market data sources. | JavaScript | 2026-10-26 |
+| [Shubham_Portfolio](https://github.com/shubhamsharma2004/Shubham_Portfolio) · [Live](https://shubham-portfolio-kappa-woad.vercel.app) |  | HTML | 2026-10-22 |
+| [tiny-embeddable-checkout](https://github.com/shubhamsharma2004/tiny-embeddable-checkout) |  | TypeScript | 2026-09-11 |
+| [Project_Management](https://github.com/shubhamsharma2004/Project_Management) |  | Python | 2026-08-09 |
+| [TradePilot-Practice-Markets-with-Confidence](https://github.com/shubhamsharma2004/TradePilot-Practice-Markets-with-Confidence) | TradePilot is a modern paper trading platform that lets users practice stock market trading with virtual money in real-time market conditions. Users can track portfolios, analyze charts, test strategies, and improve trading skills without financial risk through a realistic and interactive trading experience. | HTML | 2026-05-15 |
 <!-- LATEST_PROJECTS:END -->
 
 <sub>⚙️ This section updates automatically every day via GitHub Actions.</sub>
