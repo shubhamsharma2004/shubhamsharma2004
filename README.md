@@ -11,6 +11,8 @@ I'm a Software Developer at <b>Findoc Investmart Pvt. Ltd.</b> with <b>2.5+ year
 
 - 🔭 I'm currently working on **fintech web applications, backend APIs, reporting modules and financial data workflows**
 - 🌱 I'm currently learning **Advanced React.js, Node.js, System Design, DSA, Backend Architecture and AI/LLM app development**
+- 🧩 Solving **one DSA problem every day**: [DSA-Daily](https://github.com/shubhamsharma2004/DSA-Daily)
+- 📖 Learning in public (System Design, Backend, AI/LLM): [learning-in-public](https://github.com/shubhamsharma2004/learning-in-public)
 - 💼 Experience: **Software Developer @ Findoc Investmart** · **Web Developer @ Worn In Well** · **Software Developer Intern @ Solar Secure Pvt. Ltd.**
 - 👨‍💻 Check out my portfolio: **[devshubh.in](https://devshubh.in)**
 - 💬 Ask me about **React.js, JavaScript, Python, Django, REST APIs, PostgreSQL, fintech and AI-powered apps**
